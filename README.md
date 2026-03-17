@@ -377,7 +377,7 @@ Stark Petrol: melhor opção = Gasolina | Total (42L) = R$ 259,14
 
 ---
 
-## 9) Subprograma 6 — Relatórios Operacionais (novo)
+## 9) Subprograma 6 — Relatórios Operacionais
 
 Este módulo deve consolidar dados registrados em memória durante a execução:
 
