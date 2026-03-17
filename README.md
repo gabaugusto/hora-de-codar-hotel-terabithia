@@ -1,4 +1,4 @@
-# Projeto Integrador — Plataforma Interna de Operações Hoteleiras
+# Hotel Terabithia: Plataforma Interna de Operações Hoteleiras
 
 ## 1) Visão Geral
 
